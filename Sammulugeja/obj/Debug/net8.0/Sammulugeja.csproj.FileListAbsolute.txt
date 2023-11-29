@@ -1,0 +1,14 @@
+C:\Users\robin\source\repos\Functions\Sammulugeja\obj\Debug\net8.0\Sammulugeja.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\robin\source\repos\Functions\Sammulugeja\obj\Debug\net8.0\Sammulugeja.AssemblyInfoInputs.cache
+C:\Users\robin\source\repos\Functions\Sammulugeja\obj\Debug\net8.0\Sammulugeja.AssemblyInfo.cs
+C:\Users\robin\source\repos\Functions\Sammulugeja\obj\Debug\net8.0\Sammulugeja.csproj.CoreCompileInputs.cache
+C:\Users\robin\source\repos\Functions\Sammulugeja\bin\Debug\net8.0\Sammulugeja.exe
+C:\Users\robin\source\repos\Functions\Sammulugeja\bin\Debug\net8.0\Sammulugeja.deps.json
+C:\Users\robin\source\repos\Functions\Sammulugeja\bin\Debug\net8.0\Sammulugeja.runtimeconfig.json
+C:\Users\robin\source\repos\Functions\Sammulugeja\bin\Debug\net8.0\Sammulugeja.dll
+C:\Users\robin\source\repos\Functions\Sammulugeja\bin\Debug\net8.0\Sammulugeja.pdb
+C:\Users\robin\source\repos\Functions\Sammulugeja\obj\Debug\net8.0\Sammulugeja.dll
+C:\Users\robin\source\repos\Functions\Sammulugeja\obj\Debug\net8.0\refint\Sammulugeja.dll
+C:\Users\robin\source\repos\Functions\Sammulugeja\obj\Debug\net8.0\Sammulugeja.pdb
+C:\Users\robin\source\repos\Functions\Sammulugeja\obj\Debug\net8.0\Sammulugeja.genruntimeconfig.cache
+C:\Users\robin\source\repos\Functions\Sammulugeja\obj\Debug\net8.0\ref\Sammulugeja.dll
